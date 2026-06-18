@@ -21,7 +21,7 @@
 
 #include <mq/Plugin.h>
 
-#include <MQItemColor/MQItemColor.h>
+#include "MQItemColor.h"
 #include "imgui/ImGuiUtils.h"
 #include "imgui/ImGuiTextEditor.h"
 
